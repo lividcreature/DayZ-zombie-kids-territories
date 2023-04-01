@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<territory-type>
 	<!-- Zombie Kids - add to your zombie_territories.xml -->
 	<territory color="9437050462">
 		<!--- Elektrozavodsk School --->
@@ -54,4 +52,3 @@
 		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="9579.95" z="13681.10" r="50"/>
 	</territory>
 	<!-- End Zombie Kids -->
-</territory-type>
