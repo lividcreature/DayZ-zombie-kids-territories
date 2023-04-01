@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<!-- Zombie Kids - add to your zombie_territories.xml -->
+	<territory color="9437050462">
+		<!--- Elektrozavodsk School --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="3" dmax="5" x="10210.1" z="2569.18" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="3" dmax="5" x="10221.9" z="2588.39" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="10238.9" z="2590.08" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="5" dmax="8" x="10229.1" z="2589.53" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="10236.7" z="2557.88" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="3" dmax="5" x="10228.9" z="2588.64" r="50"/>
+		<!--- Berezino School --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="3" dmax="5" x="12175.4" z="9737.38" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="3" dmax="5" x="12172.4" y="15.3114" z="9773.25" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="5" dmax="8" x="12153.7" z="9764.92" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="5" dmax="8" x="12146" z="9748.43" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="5" dmax="8" x="12172.2" y="15.3114" z="9774.14" r="50"/>
+		<zone name="Infectedkids" smin="0" smax="0" dmin="5" dmax="8" x="12225.7" z="9741.63" r="50"/>
+		<!--- Druzhba Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="11464.9" z="10639.6" r="50"/>
+		<!--- Novaya Petrovka School --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="3213.77" z="13087.59" r="50"/>
+		<!--- Sverograd School --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="8567.13" z="12753.25" r="50"/>
+		<!--- Svyatoy Roman Ski Resort Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="1223.96" z="11440.77" r="50"/>
+		<!--- Pobeda Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="3672.79" z="14793.64" r="50"/>
+		<!--- Shkolnik Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="14835.15" z="14571.04" r="50"/>
+		<!--- Nadezhda Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="7235.94" z="7035.84" r="50"/>
+		<!--- Proud Chernarus Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="3233.71" z="6093.96" r="50"/>
+		<!--- Camp Kometa Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="10317.71" z="3530.30" r="50"/>
+		<!--- Youth Pioneer Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="11143.91" z="7047.21" r="50"/>
+		<!--- Romashka Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="8116.76" z="10983.18" r="50"/>
+		<!--- Metalurg Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="1087.24" z="6633.62" r="50"/>
+		<!--- Biathalon Arena Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="588.62" z="11149.86" r="50"/>
+		<!--- Vysotovo School NW of Cherno --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="5694.56" z="2566.94" r="50"/>
+		<!--- Stroytel Campgrounds --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="7063.24" z="4286.69" r="50"/>
+		<!--- Luna Park Novaya Petrovka --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="3250.91" z="12756.69" r="60"/>
+		<!--- Luna Park Stary Sobor --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="6134.38" z="7622.31" r="50"/>
+		<!--- Luna Park Svergino --->
+		<zone name="Infectedkids" smin="0" smax="0" dmin="8" dmax="10" x="9579.95" z="13681.10" r="50"/>
+	</territory>
+	<!-- End Zombie Kids -->
+</territory-type>
